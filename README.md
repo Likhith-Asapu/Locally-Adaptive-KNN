@@ -1,4 +1,4 @@
-# SMAI-Project Team 19
+# Locally-Adaptive-KNN
 
 ## Code
 
