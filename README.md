@@ -1,8 +1,4 @@
 # SMAI-Project Team 19
-Link to Repo - [Link](https://github.com/viks01/SMAI-Project)
-Link to Report - [Link](https://www.overleaf.com/project/6389cf12383e000fe0dfe90b)
-
-
 
 ## Code
 
